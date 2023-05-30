@@ -14,8 +14,11 @@
   }
   
   .avatar {
-    width: 200px;
+    width: 220px;
+    padding: 10px;
+    border: 2px solid rgb(63, 63, 63);
     border-radius: 50%;
+    background-color: #ffff;
   }
   
   .name {
