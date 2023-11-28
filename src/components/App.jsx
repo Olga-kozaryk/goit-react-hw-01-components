@@ -1,4 +1,4 @@
-import { Profile } from "./ProfileComponent/Profile";
+import { ProfileComponent } from "./ProfileComponent/Profile";
 import user from '../json-home-work/user.json';
 
 import { Statistics } from "./Statistics/Statistics";
@@ -24,7 +24,7 @@ export const App = () => {
     }}
     >
       
-      <Profile
+      <ProfileComponent
         userName={user.username}
         tag={user.tag}
         location={user.location}
