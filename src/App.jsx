@@ -1,7 +1,7 @@
 import { Profile } from "./components/ProfileComponent/Profile";
 import user from './data-home-work/user';
 
-import { Statistics } from "./components/Statistics/Statistics";
+import { Statistics } from "./components/StatisticsComponent/Statistics";
 import data from './data-home-work/data';
 
 import { FriendList } from "./components/FriendListComponents/FriendList/FriendList";
