@@ -1,7 +1,7 @@
 import css from './Profile.module.css';
 
 
-export const ProfileComponent = ({ userName, tag, location, avatar, stats }) => {
+export const Profile = ({ userName, tag, location, avatar, stats }) => {
     return (
 <div className={css.profile}>
 
