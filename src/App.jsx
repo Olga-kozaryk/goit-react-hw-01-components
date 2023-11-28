@@ -7,7 +7,7 @@ import data from './data-home-work/data';
 import { FriendList } from "./components/FriendListComponents/FriendList/FriendList";
 import friends from './data-home-work/friends';
 
-import { TransactionHistory } from "./components/TransactionHistory/TransactionHistory";
+import { TransactionHistory } from "./components/TransactionComponent/TransactionHistory";
 import transactions from './data-home-work/transactions';
 
 export const App = () => {
